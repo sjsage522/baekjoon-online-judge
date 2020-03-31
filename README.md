@@ -26,7 +26,14 @@
 <details>
     <summary><b>배열</b></summary>
     <ul>
-        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/배열/array_1159">농구 경기</a></li>
+        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/배열/array_1159.c">농구 경기</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary><b>수학</b></summary>
+    <ul>
+        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/수학/math_1000.c">A+B</a></li>
     </ul>
 </details>
 
