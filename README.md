@@ -14,9 +14,11 @@
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_2178.c">미로 탐색</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_2468.c">안전 영역</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_2583.c">영역 구하기</a></li>
+        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_2667.c">단지번호붙이기</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_6603.c">로또</a></li>
     </ul>
 </details>
+
 
 <details>
     <summary><b>반복</b></summary>
