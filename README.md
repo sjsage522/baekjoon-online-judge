@@ -16,24 +16,20 @@
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_2583.c">영역 구하기</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_2667.c">단지번호붙이기</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_6603.c">로또</a></li>
+        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7562.c">나이트의 이동</a></li>
     </ul>
 </details>
-
-
 <details>
     <summary><b>반복</b></summary>
     <ul>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/반복/for_2438.c">별 찍기-1</a></li>
     </ul>
-</details>
-
-<details>
+</details><details>
     <summary><b>배열</b></summary>
     <ul>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/배열/array_1159.c">농구 경기</a></li>
     </ul>
 </details>
-
 <details>
     <summary><b>수학</b></summary>
     <ul>
