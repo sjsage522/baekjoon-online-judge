@@ -37,5 +37,27 @@
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/수학/math_1000.c">A+B</a></li>
     </ul>
 </details>
+<details>
+    <summary><b>단계별로 풀어보기</b></summary>
+    <ul>
+        <details>
+            <summary><b>입출력과 사칙연산</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/A%2BB.c">A+B</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/A-B.c">A-B</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/AxB.c">AxB</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/A／B.c">A/B</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/Hello World.java">Hello World</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/We love kriii.c">We love kriii</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/개.c">개</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/고양이.c">고양이</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/곱셈.c">곱셈</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/나머지.c">나머지</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/사칙연산.c">사칙연산</a></li>
+            </ul>
+        </details>
+    </ul>
+</details>
+
 
 
