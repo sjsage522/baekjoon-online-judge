@@ -56,8 +56,19 @@
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/입출력과%20사칙연산/사칙연산.c">사칙연산</a></li>
             </ul>
         </details>
+        <details>
+            <summary><b>if 문</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/if문/두%20수%20비교하기.c">두 수 비교하기</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/if문/사분면%20고르기.java">사분면 고르기</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/if문/시험%20성적.c">시험 성적</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/if문/알람%20시계.c">알람 시계</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/if문/윤년.c">윤년</a></li>
+            </ul>
+        </details>
     </ul>
 </details>
+
 
 
 
