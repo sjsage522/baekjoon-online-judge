@@ -38,7 +38,7 @@
     </ul>
 </details>
 <details>
-    <summary><b>단계별로 풀어보기</b></summary>
+    <summary><b><em>단계별로 풀어보기</em></b></summary>
     <ul>
         <details>
             <summary><b>입출력과 사칙연산</b></summary>
@@ -68,6 +68,7 @@
         </details>
     </ul>
 </details>
+
 
 
 
