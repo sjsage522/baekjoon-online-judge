@@ -66,8 +66,24 @@
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/if문/윤년.c">윤년</a></li>
             </ul>
         </details>
+        <details>
+            <summary><b>for 문</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/A%2BB%20-%203.c">A+B - 3</a></li>      
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/A%2BB%20-%207.c">A+B - 7</a></li>   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/A%2BB%20-%208.c">A+B - 8</a></li>                   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/N%20찍기.c">N 찍기</a></li>   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/X보다%20작은%20수.c">X보다 작은 수</a></li>   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/구구단.c">구구단</a></li>   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/기찍%20N.c">기찍 N</a></li>   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/별%20찍기%20-%201.c">별 찍기 - 1</a></li>   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/별%20찍기%20-%202.c">별 찍기 - 2</a></li>                   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/빠른%20A%2BB.c">빠른 A+B</a></li>   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/합.c">합</a></li>               </ul>
+        </details>
     </ul>
 </details>
+
 
 
 
