@@ -77,12 +77,22 @@
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/구구단.c">구구단</a></li>   
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/기찍%20N.c">기찍 N</a></li>   
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/별%20찍기%20-%201.c">별 찍기 - 1</a></li>   
-                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/별%20찍기%20-%202.c">별 찍기 - 2</a></li>                   
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/별%20찍기%20-%202.c">별 찍기 - 2</a></li>                
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/빠른%20A%2BB.c">빠른 A+B</a></li>   
-                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/합.c">합</a></li>               </ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/for문/합.c">합</a></li>               
+            </ul>
         </details>
+        <details>
+            <summary><b>while 문</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/A%2BB%20-%204.c">A+B - 4.c</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/A%2BB%20-%205.c">A+B - 5.c</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/더하기%20사이클.c">더하기 사이클.c</a></li>
+            </ul>
+        </details>        
     </ul>
 </details>
+
 
 
 
