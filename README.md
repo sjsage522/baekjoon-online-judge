@@ -85,13 +85,25 @@
         <details>
             <summary><b>while 문</b></summary>
             <ul>
-                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/A%2BB%20-%204.c">A+B - 4.c</a></li>
-                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/A%2BB%20-%205.c">A+B - 5.c</a></li>
-                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/더하기%20사이클.c">더하기 사이클.c</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/A%2BB%20-%204.c">A+B - 4</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/A%2BB%20-%205.c">A+B - 5</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/while문/더하기%20사이클.c">더하기 사이클</a></li>
             </ul>
-        </details>        
+        </details>   
+        <details>
+            <summary><b>실습1</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/실습1/별%20찍기%20-%2013.java">별 찍기 - 13</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/실습1/별%20찍기%20-%2013.java">별 찍기 - 21</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/실습1/별%20찍기%9-%2021.java">별 찍기 - 9</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/실습1/상근날드.java">상근날드</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/실습1/세%20수.c">세 수</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/실습1/평균%20점수.java">평균 점수</a></li>    
+            </ul>
+        </details>
     </ul>
 </details>
+
 
 
 
