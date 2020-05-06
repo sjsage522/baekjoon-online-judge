@@ -101,8 +101,21 @@
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/실습1/평균%20점수.java">평균 점수</a></li>    
             </ul>
         </details>
+        <details>
+            <summary><b>1차원 배열</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/OX퀴즈.c">OX퀴즈</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/나머지.c">나머지</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/숫자의%20개수.c">숫자의 개수</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/최댓값.c">최댓값</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/최소%2C%20최대.c">최소, 최대</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/평균.c">평균</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/평균은%20넘겠지.c">평균은 넘겠지</a></li>      
+            </ul>
+        </details>
     </ul>
 </details>
+
 
 
 
