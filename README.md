@@ -113,8 +113,17 @@
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/1차원%20배열/평균은%20넘겠지.c">평균은 넘겠지</a></li>      
             </ul>
         </details>
+        <details>
+            <summary><b>함수</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/함수/셀프%20넘버.c">셀프 넘버</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/함수/정수%20N개의%20합.c">정수 N개의 합</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/함수/한수.java">한수</a></li>     
+            </ul>
+        </details>
     </ul>
 </details>
+
 
 
 
