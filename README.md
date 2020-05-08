@@ -121,8 +121,17 @@
                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/함수/한수.java">한수</a></li>     
             </ul>
         </details>
+        <details>
+            <summary><b>문자열</b></summary>
+            <ul>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/그룹%20단어%20체커.c">그룹 단어 체커</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/다이얼.c">다이얼</a></li>
+                <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/단어%20공부.c">단어 공부</a></li>                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/단어의 개수.c">단어의 개수</a></li>                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/문자열 반복.c">문자열 반복</a></li>                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/상수.c">상수</a></li>                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/숫자의 합.c">숫자의 합</a></li>                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/아스키 코드.c">아스키 코드</a></li>                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/알파벳 찾기.c">알파벳 찾기</a></li>                 <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/단계별로%20풀어보기/문자열/크로아티아 알파벳.c">크로아티아 알파벳</a></li>    
+            </ul>
+        </details>
     </ul>
 </details>
+
 
 
 
