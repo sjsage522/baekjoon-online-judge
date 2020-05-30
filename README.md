@@ -17,7 +17,8 @@
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_2667.c">단지번호붙이기</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_6603.c">로또</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7562.c">나이트의 이동</a></li>
-        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7569.c">토마토</a></li>
+        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7569.c">토마토(1)</a></li>
+        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7576.c">토마토(2)</a></li>
     </ul>
 </details>
 <details>
