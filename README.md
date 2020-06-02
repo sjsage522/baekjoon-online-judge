@@ -19,6 +19,7 @@
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7562.c">나이트의 이동</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7569.c">토마토(1)</a></li>
         <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_7576.c">토마토(2)</a></li>
+        <li><a href="https://github.com/sjsage522/baekjoon-online-judge/blob/master/source/그래프/graph_10026.c">적록색약</a></li>
     </ul>
 </details>
 <details>
